@@ -1,16 +1,37 @@
-# mealsapp
+# Silver E-Commece App
 
-A new Flutter project.
 
-## Getting Started
+# Screen Shots
 
-This project is a starting point for a Flutter application.
+## Main Page
+<img src='assets/ss/1.jpg'>
 
-A few resources to get you started if this is your first Flutter project:
+## Drawer 
+<img src='assets/ss/2.jpg'>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Filter Page
+<img src='assets/ss/3.jpg'>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Women's Necklace Page
+<img src='assets/ss/4.jpg'>
+
+## Women's Necklace Page
+<img src='assets/ss/5.jpg'>
+
+## Women's Necklace Page
+<img src='assets/ss/6.jpg'>
+
+## Fly Necklace Details Page
+<img src='assets/ss/7.jpg'>
+
+## Fly Necklace Details Page
+<img src='assets/ss/8.jpg'>
+
+## Favourite Page Empty
+<img src='assets/ss/9.jpg'>
+
+## Mack this Necklace as favourite one by toggle floatingbutton
+<img src='assets/ss/10.jpg'>
+
+## Favourite Page
+<img src='assets/ss/11.jpg'>
