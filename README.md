@@ -3,6 +3,8 @@
 
 # Screen Shots
 
+<img src='assets/ss/0.jpg'>
+
 ## Main Page
 <img src='assets/ss/1.jpg'>
 
